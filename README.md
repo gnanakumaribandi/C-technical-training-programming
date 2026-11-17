@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
