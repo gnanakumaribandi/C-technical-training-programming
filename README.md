@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0011-container-with-most-water) |
+| [0456-132-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0456-132-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0456-132-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/gnanakumaribandi/C-technical-training-programming/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
